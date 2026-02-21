@@ -1,0 +1,17 @@
+{
+  "name": "AUXÍLIO VIP MJ",
+  "short_name": "VIP MJ",
+  "description": "Painel de Auxílio VIP MJ - Red Supreme",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/716/716429.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
